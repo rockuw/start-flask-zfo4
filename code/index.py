@@ -15,7 +15,7 @@ def index():
 <div class="website">
     <div class="ri-t">
         <h1>Devsapp</h1>
-        <h2>这是一个 Flask 项目 </h2>
+        <h2>这是一个 Flask 项目 muwu</h2>
         <span>自豪的通过Serverless Devs进行部署</span>
         <br/>
         <p>您也可以快速体验： <br/>
